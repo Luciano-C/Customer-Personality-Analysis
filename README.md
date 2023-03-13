@@ -6,7 +6,7 @@ During this project, I have acquired and practiced various important skills incl
     <li>Working with dates using timestamps.</li>
     <li>Use of K-Means model to solve a cluster problem.</li>
     <li>Using OneHotEncoding for categorical columns.</li>
-    <li>Elbow method to choos the number of clusters.</li>
+    <li>Elbow method to choose the number of clusters.</li>
     <li>Dimensionality reduction using T-SNE.</li>
     <li>Cluster analysis using mean, mode and other indicators.</li>
 </ul>
